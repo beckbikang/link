@@ -4,12 +4,6 @@
 [![codecov](https://codecov.io/gh/funny/link/branch/master/graph/badge.svg)](https://codecov.io/gh/funny/link)
 [![GoDoc](https://img.shields.io/badge/api-reference-blue.svg)](https://godoc.org/github.com/funny/link)
 
-fork的原因
-===
-1 增加更多的注释
-2 增加协议
-
-
 
 介绍
 ====
